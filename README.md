@@ -4,7 +4,7 @@ reporting date 01.01.21
 
 &nbsp;
 
-![BIKE](/web/psd/trdbike.png)
+![BIKE](/web/psd/trdbike.jpg)
 
 ### 공공 자전거 데이터를 활용한 수요 조사 및 예측 모델 프로그래밍
 ### Development of Demand Survey and Forecasting Model Using Public Bicycle Data
